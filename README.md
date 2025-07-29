@@ -111,6 +111,8 @@ decentralised-university/
 3. Compile contracts: `npx hardhat compile`
 4. Deploy to testnet: `npx hardhat run scripts/deploy.js --network sepolia`
 5. Verify contract: `npx hardhat verify --network sepolia 0xC32B2dD85f81DFC7D7D8f5a7Aa3C69a101695286`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d62c5413-6a1a-4d6e-9b13-14560debba69" />
+
 
 ## Contributing
 

@@ -110,7 +110,7 @@ decentralised-university/
 2. Install dependencies: `npm install`
 3. Compile contracts: `npx hardhat compile`
 4. Deploy to testnet: `npx hardhat run scripts/deploy.js --network sepolia`
-5. Verify contract: `npx hardhat verify --network sepolia [CONTRACT_ADDRESS]`
+5. Verify contract: `npx hardhat verify --network sepolia 0xC32B2dD85f81DFC7D7D8f5a7Aa3C69a101695286`
 
 ## Contributing
 
